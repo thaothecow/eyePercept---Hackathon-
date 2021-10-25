@@ -1,1 +1,1 @@
-https://devpost.com/software/eyepercept
+DevPost: https://devpost.com/software/eyepercept
